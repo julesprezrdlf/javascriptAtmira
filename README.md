@@ -21,7 +21,7 @@ Si el usuario responde no se escribirá por el documento web «irás a casa».
 
 Si no es ni Sí o No, en el documento web se escribirá «la documentación por favor».
 
-<hr>
+
 
 2) Escribe un programa que responda a un usuario que quiere comprar un helado en una conocida marca de comida rápida cuanto le costará en función del topping que elija.
 
@@ -37,9 +37,9 @@ Finalmente, el programa escribe por pantalla el precio del helado con el topping
 
 # Bucles - For
 
-1- Escribir un programa que tras pedir un número, nos calcule su tabla de multiplicar
+1) Escribir un programa que tras pedir un número, nos calcule su tabla de multiplicar
 
-2- Calcular el factorial de un número (El factorial de un entero positivo n, el factorial de n o n factorial se define en principio como el producto de todos los números enteros positivos desde 1 (es decir, los números naturales) hasta n)
+2) Calcular el factorial de un número (El factorial de un entero positivo n, el factorial de n o n factorial se define en principio como el producto de todos los números enteros positivos desde 1 (es decir, los números naturales) hasta n)
 
 <hr>
 
@@ -58,14 +58,14 @@ Finalmente, el programa escribe por pantalla el precio del helado con el topping
 # Bucles - While
 
 
-1- Escribir un programa que tras pedir un número, nos calcule su tabla de multiplicar
+1) Escribir un programa que tras pedir un número, nos calcule su tabla de multiplicar
 
-2- Calcular el factorial de un número (El factorial de un entero positivo n, el factorial de n o n factorial se define en principio como el producto de todos los números enteros positivos desde 1 (es decir, los números naturales) hasta n)
+2) Calcular el factorial de un número (El factorial de un entero positivo n, el factorial de n o n factorial se define en principio como el producto de todos los números enteros positivos desde 1 (es decir, los números naturales) hasta n)
 
 <hr>
 
 # Bucles - Do While
 
-1 - Realiza un script que le pida al usuario que telee la letra A (en mayúscula) y mientras no lo haga se lo vuelva a pedir. Usa un bulce do..while y la ventana alert para los mensajes
+1) Realiza un script que le pida al usuario que telee la letra A (en mayúscula) y mientras no lo haga se lo vuelva a pedir. Usa un bulce do..while y la ventana alert para los mensajes
 
-2 - Crear un script que usará un bucle do while para determinar si un número es primo o no (Sólo se puede dividir por él mismo o la unidad) El numero tecleado deberá estar entre 0 y 100. Si es primo lo mostrará en una ventana alert
+2) Crear un script que usará un bucle do while para determinar si un número es primo o no (Sólo se puede dividir por él mismo o la unidad) El numero tecleado deberá estar entre 0 y 100. Si es primo lo mostrará en una ventana alert
