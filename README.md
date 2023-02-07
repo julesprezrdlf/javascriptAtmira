@@ -43,8 +43,8 @@ Finalmente, el programa escribe por pantalla el precio del helado con el topping
 
 #Bucles - For Of
 
-# Bucles - While
+#Bucles - While
 
-# Bucles - Do While
+#Bucles - Do While
 
-# Bucles -  
+#Bucles -  
