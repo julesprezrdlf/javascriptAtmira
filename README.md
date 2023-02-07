@@ -2,6 +2,27 @@
 Formación con Javascript para ATMIRA
 
 
+Tipos de datos  
+https://www.youtube.com/watch?v=baDdsQ4aw4o&ab_channel=midulive
+
+Variables let y const 
+https://www.youtube.com/watch?v=XNAeFAYWj9E&ab_channel=VidaMRR-Programacionweb
+
+
+Operadores 
+https://www.youtube.com/watch?v=XNAeFAYWj9E&ab_channel=VidaMRR-Programacionweb
+
+Condicionales 
+
+Loops (for, while, doWhile) 
+
+Estructuras de control 
+
+ 
+
+1 jornada, Javascript Vanilla 2: 
+
+
 <hr>
 
 # Condicionales
@@ -64,4 +85,4 @@ Finalmente, el programa escribe por pantalla el precio del helado con el topping
 
 1) Crear un programa que tras pedirle un número, imprima toda la sucesión de números, pero se detenga si encontramos un número múltiplo de 27
 
-2) 
+2) Crear un programa que tras pedirle un número, imprima via consolelog todos los números hasta llegar al número 7, cuando llegue al 7 que muestre una alerta, y que siga contando hasta llegar al número deseado
