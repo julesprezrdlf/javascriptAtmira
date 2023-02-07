@@ -4,7 +4,7 @@ Formación con Javascript para ATMIRA
 
 <hr>
 
-#Condicionales
+# Condicionales
 
 Para pedir datos, lo haremos vía promt
 ```js
@@ -35,16 +35,16 @@ Finalmente, el programa escribe por pantalla el precio del helado con el topping
 
 <hr>
 
-#Bucles - For
+# Bucles - For
 
-#Bucles - For Each
+# Bucles - For Each
 
-#Bucles - For In
+# Bucles - For In
 
-#Bucles - For Of
+# Bucles - For Of
 
-#Bucles - While
+# Bucles - While
 
-#Bucles - Do While
+# Bucles - Do While
 
-#Bucles -  
+# Bucles -  
