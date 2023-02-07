@@ -43,18 +43,6 @@ Finalmente, el programa escribe por pantalla el precio del helado con el topping
 
 <hr>
 
-# Bucles - For Each
-
-<hr>
-
-# Bucles - For In
-
-<hr>
-
-# Bucles - For Of
-
-<hr>
-
 # Bucles - While
 
 
@@ -69,3 +57,11 @@ Finalmente, el programa escribe por pantalla el precio del helado con el topping
 1) Realiza un script que le pida al usuario que telee la letra A (en mayúscula) y mientras no lo haga se lo vuelva a pedir. Usa un bulce do..while y la ventana alert para los mensajes
 
 2) Crear un script que usará un bucle do while para determinar si un número es primo o no (Sólo se puede dividir por él mismo o la unidad) El numero tecleado deberá estar entre 0 y 100. Si es primo lo mostrará en una ventana alert
+
+<hr>
+
+# Controladores (Break y Continue)
+
+1) Crear un programa que tras pedirle un número, imprima toda la sucesión de números, pero se detenga si encontramos un número múltiplo de 27
+
+2) 
