@@ -14,15 +14,18 @@ https://www.youtube.com/watch?v=XNAeFAYWj9E&ab_channel=VidaMRR-Programacionweb
 
 
 Loops (for, while, doWhile) 
+https://www.youtube.com/watch?v=Lunwp-6aoGo
+
 
 Estructuras de control 
-
+https://www.youtube.com/watch?v=roJw0lbELHw
 
 
 
 <hr>
 
 # Condicionales
+https://www.youtube.com/watch?v=bo23w5-klD8
 
 Para pedir datos, lo haremos vía promt
 ```js
