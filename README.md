@@ -1,5 +1,6 @@
 # javascriptAtmira
 Formación con Javascript para ATMIRA
+https://www.youtube.com/watch?v=z95mZVUcJ-E (primer capítulo)
 
 
 Tipos de datos  
