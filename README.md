@@ -15,10 +15,17 @@ https://www.youtube.com/watch?v=XNAeFAYWj9E&ab_channel=VidaMRR-Programacionweb
 
 Loops (for, while, doWhile) 
 https://www.youtube.com/watch?v=Lunwp-6aoGo
+for
+https://www.w3schools.com/js/js_loop_for.asp
+while
+https://www.w3schools.com/js/js_loop_while.asp
+doWHile
+https://www.w3schools.com/jsref/jsref_dowhile.asp
 
 
 Estructuras de control 
 https://www.youtube.com/watch?v=roJw0lbELHw
+https://www.w3schools.com/js/js_break.asp
 
 
 
@@ -26,6 +33,7 @@ https://www.youtube.com/watch?v=roJw0lbELHw
 
 # Condicionales
 https://www.youtube.com/watch?v=bo23w5-klD8
+https://www.w3schools.com/js/js_if_else.asp
 
 Para pedir datos, lo haremos vía promt
 ```js
