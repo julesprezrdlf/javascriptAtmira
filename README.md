@@ -12,15 +12,12 @@ https://www.youtube.com/watch?v=XNAeFAYWj9E&ab_channel=VidaMRR-Programacionweb
 Operadores 
 https://www.youtube.com/watch?v=XNAeFAYWj9E&ab_channel=VidaMRR-Programacionweb
 
-Condicionales 
 
 Loops (for, while, doWhile) 
 
 Estructuras de control 
 
- 
 
-1 jornada, Javascript Vanilla 2: 
 
 
 <hr>
